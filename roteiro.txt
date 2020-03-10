@@ -1,0 +1,7 @@
+roteiro de aula
+
+-porque controlar vesão
+-como controlar (manual/svn/git)
+-ferramentas
+-conceitos
+--Init
