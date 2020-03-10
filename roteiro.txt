@@ -7,3 +7,6 @@ roteiro de aula
 --Init
 feito add
 feito commit
+linha 1
+linha 2
+linha 3
