@@ -5,3 +5,5 @@ roteiro de aula
 -ferramentas
 -conceitos
 --Init
+feito add
+feito commit
